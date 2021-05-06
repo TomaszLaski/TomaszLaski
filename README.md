@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 My name is Tomasz Łaski, I am currently looking for my first job in IT. I started my adventure with the Web Developer Plus Kodilla bootcamp, then after graduation I devote my free time to learning programming and developing the acquired knowledge
-## 📦 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 * My portfolio page
 * MERN app
 * development of frontend and backend skills
