@@ -17,5 +17,5 @@ JAVASCRIPT, ES6, VUE, REACT, HTML, CSS, TEST-DRIVEN DEVELOPMENT, RWD, GIT, AJAX,
 * React.js
 
 ## 📫 How to reach me: ...
-✉️ tomasz.laski0001@gmail.com
-https://www.linkedin.com/in/tomasz-%C5%82aski-7888b2185/
+* ✉️ tomasz.laski0001@gmail.com
+* https://www.linkedin.com/in/tomasz-%C5%82aski-7888b2185/
