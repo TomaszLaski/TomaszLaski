@@ -9,7 +9,7 @@ My name is Tomasz Łaski, I am currently looking for my first job in IT. I start
 * I am actively looking for a job in the IT industry
 ## ⚡ Technologies I am familiar with
 
-JAVASCRIPT, ES6, VUE, REACT, HTML, CSS, TEST-DRIVEN DEVELOPMENT, RWD, GIT, AJAX, NODE, BOOTSTRAP, EXPRESS, REDUX, REACT ROUTER, MONGODB, MERN, JIRA, KANBAN, NPM, YARN, WEBPACK, VISUAL STUDIO CODE
+**JAVASCRIPT**, **ES6**, VUE, **REACT**, **HTML**, **CSS**, TEST-DRIVEN DEVELOPMENT, RWD, **GIT**, AJAX, NODE, BOOTSTRAP, EXPRESS, REDUX, REACT ROUTER, MONGODB, MERN, **JIRA**, **KANBAN**, NPM, YARN, WEBPACK, VISUAL STUDIO CODE
 
 ## 🌱 I’m currently learning ...
 * Node.js
