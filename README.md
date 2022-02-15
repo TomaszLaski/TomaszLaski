@@ -13,7 +13,6 @@ My name is Tomasz Łaski, I am currently looking for my first job in IT. I start
 
 ## 🌱 I’m currently learning ...
 * Node.js
-* Vue.js
 * React.js
 
 ## 📫 How to reach me: ...
