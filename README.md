@@ -5,7 +5,7 @@ My name is Tomasz Łaski, I am currently looking for my first job in IT. I start
 * My portfolio page
 * MERN app
 * development of frontend and backend skills
-* **completion (5.05.2022) of advanced techniques of working with Node.js (based on the Nest.js framework)**
+* **completion (5.05.2022) of the course "advanced techniques of working with Node.js (based on the Nest.js framework)" with the Kodilla programming school**
 * I am actively looking for a job in the IT industry
 ## ⚡ Technologies I am familiar with
 
