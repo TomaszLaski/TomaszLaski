@@ -5,7 +5,7 @@ My name is Tomasz Łaski, I am currently looking for my first job in IT. I start
 * My portfolio page
 * MERN app
 * development of frontend and backend skills
-* learning Vue.js
+* **completion (5.05.2022) of advanced techniques of working with Node.js (based on the Nest.js framework)**
 * I am actively looking for a job in the IT industry
 ## ⚡ Technologies I am familiar with
 
@@ -14,6 +14,9 @@ My name is Tomasz Łaski, I am currently looking for my first job in IT. I start
 ## 🌱 I’m currently learning ...
 * Node.js
 * React.js
+* **Nest.js** 
+* **TypeORM**
+* **EventLoops and Design Pattern** 
 
 ## 📫 How to reach me: ...
 * ✉️ tomasz.laski0001@gmail.com
