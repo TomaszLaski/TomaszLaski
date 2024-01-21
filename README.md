@@ -1,23 +1,24 @@
 ## 👋 Hello!
 
-My name is Tomasz Łaski, I am currently looking for my first job in IT. I started my adventure with the Web Developer Plus Kodilla bootcamp, then after graduation I devote my free time to learning programming and developing the acquired knowledge
-## 🔭 I’m currently working on ...
-* My portfolio page
-* MERN app
-* development of frontend and backend skills
-* **completion (5.05.2022) of the course "advanced techniques of working with Node.js (based on the Nest.js framework)" with the Kodilla programming school**
-* I am actively looking for a job in the IT industry
-## ⚡ Technologies I am familiar with
+I'm Tomasz Łaski, an IT professional with a diverse skill set cultivated throughout my journey. I dedicated a year as a software engineer trainee, starting in October 2022 and concluding in October 2023, immersing myself in the dynamic world of technology. Since then, I've been thriving as a software engineer associate, continuously refining my expertise.
 
-**JAVASCRIPT**, **ES6**, VUE, **REACT**, **HTML**, **CSS**, TEST-DRIVEN DEVELOPMENT, RWD, **GIT**, AJAX, NODE, BOOTSTRAP, EXPRESS, REDUX, REACT ROUTER, MONGODB, MERN, **JIRA**, **KANBAN**, NPM, YARN, WEBPACK, VISUAL STUDIO CODE
+## 💻 Technologies I've Worked With
 
-## 🌱 I’m currently learning ...
-* Node.js
-* React.js
-* **Nest.js** 
-* **TypeORM**
-* **EventLoops and Design Pattern** 
+* React
+* Angular
+* Vite
+* MySQL
+* MongoDB
+* Java
+* Docker (basic changes)
+* Keycloak
+* ChatGPT
+* GitHub Copilot
+* Bing AI
 
-## 📫 How to reach me: ...
-* ✉️ tomasz.laski0001@gmail.com
-* https://www.linkedin.com/in/tomasz-%C5%82aski-7888b2185/
+I believe in continuous learning and practical application, and I'm enthusiastic about the possibilities that lie ahead in my journey as an IT professional.
+
+## 📫 How to Reach Me
+
+* ✉️ Email: tomasz.laski0001@gmail.com
+* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tomasz-%C5%82aski-7888b2185/)
