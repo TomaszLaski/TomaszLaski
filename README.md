@@ -22,3 +22,10 @@ I believe in continuous learning and practical application, and I'm enthusiastic
 
 * ✉️ Email: tomasz.laski0001@gmail.com
 * LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tomasz-%C5%82aski-7888b2185/)
+
+## 🏅 Certifications
+
+[![Database Practitioner – DB Academy](./badge.png)](https://dbacademy.com/admin/tool/certificate/index.php?code=7364665271TL)
+
+**Database Practitioner – DB Academy (2026)**  
+Foundational knowledge in SQL, database design, query optimization, transaction management and NoSQL models.
