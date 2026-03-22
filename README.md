@@ -35,8 +35,10 @@ Foundational knowledge in SQL, database design, query optimization, transaction 
 ### Columbia University – Prompt Engineering & Programming with OpenAI
 
 <p>
-  <img src="./columbia-module-1.png" height="120"/>
-  <img src="./columbia-module-2.png" height="120"/>
+  <img src="./columbia-ai-prompt-eng-module-1.png
+" height="120"/>
+  <img src="./columbia-ai-prompt-eng-module-2.png
+" height="120"/>
 </p>
 
 **Completed Modules 1 & 2**  
