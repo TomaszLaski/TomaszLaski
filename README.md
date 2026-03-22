@@ -44,5 +44,3 @@ Focus on:
 - Prompt design and optimization  
 - Controlling model behavior (temperature, tokens)  
 - Building AI-driven features  
-
-[View Credential](https://badges.plus.columbia.edu/f7b56abd-d118-4356-a21d-8b310c3ad7b1)
