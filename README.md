@@ -29,3 +29,21 @@ I believe in continuous learning and practical application, and I'm enthusiastic
 
 **Database Practitioner – DB Academy (2026)**  
 Foundational knowledge in SQL, database design, query optimization, transaction management and NoSQL models.
+
+---
+
+### Columbia University – Prompt Engineering & Programming with OpenAI
+
+<p>
+  <img src="./columbia-module-1.png" height="120"/>
+  <img src="./columbia-module-2.png" height="120"/>
+</p>
+
+**Completed Modules 1 & 2**  
+Focus on:
+- OpenAI API usage  
+- Prompt design and optimization  
+- Controlling model behavior (temperature, tokens)  
+- Building AI-driven features  
+
+[View Credential](https://badges.plus.columbia.edu/f7b56abd-d118-4356-a21d-8b310c3ad7b1)
